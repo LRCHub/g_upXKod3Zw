@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "メモリー",
+  "base_artist": "kyiku",
+  "createdAt": "2026-03-14T18:25:58.599159Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メモリー",
+      "artist": "石川ひとみ",
+      "has_synced": false,
+      "path": "select/01_メモリー_石川ひとみ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "メモリー",
+      "artist": "Hitomi Ishikawa (石川ひとみ)",
+      "has_synced": false,
+      "path": "select/02_メモリー_Hitomi_Ishikawa_(石川ひとみ).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シェイズ・オブ・メモリー",
+      "artist": "VENUES",
+      "has_synced": true,
+      "path": "select/03_シェイズ・オブ・メモリー_VENUES.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ブルー・ジーンズ・メモリー",
+      "artist": "近藤真彦",
+      "has_synced": true,
+      "path": "select/04_ブルー・ジーンズ・メモリー_近藤真彦.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "サンセット・メモリー",
+      "artist": "杉村 尚美",
+      "has_synced": true,
+      "path": "select/05_サンセット・メモリー_杉村_尚美.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ブルージーンズ　メモリー",
+      "artist": "近藤　真彦",
+      "has_synced": true,
+      "path": "select/06_ブルージーンズ_メモリー_近藤_真彦.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "メモリー",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/07_メモリー_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ハイタッチ☆メモリー",
+      "artist": "Yui Ogura",
+      "has_synced": false,
+      "path": "select/08_ハイタッチ☆メモリー_Yui_Ogura.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ハイタッチ☆メモリー",
+      "artist": "小倉唯",
+      "has_synced": false,
+      "path": "select/09_ハイタッチ☆メモリー_小倉唯.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "メモリー ( Memory )",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/10_メモリー_(_Memory_)_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Memory (メモリー)",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/11_Memory_(メモリー)_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ハイタッチ☆メモリー",
+      "artist": "小倉唯",
+      "has_synced": true,
+      "path": "select/12_ハイタッチ☆メモリー_小倉唯.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "メモリー・グラス",
+      "artist": "甲斐バンド",
+      "has_synced": true,
+      "path": "select/13_メモリー・グラス_甲斐バンド.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "サンセット・メモリー",
+      "artist": "杉村尚美",
+      "has_synced": true,
+      "path": "select/14_サンセット・メモリー_杉村尚美.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メモリー",
+      "artist": "kyiku",
+      "has_synced": false,
+      "path": "select/pl_01_メモリー_kyiku.txt"
+    }
+  ]
+}
